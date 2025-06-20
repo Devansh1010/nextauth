@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@auth/core": "^0.39.1",
+    "@imagekit/next": "^2.1.2",
     "@types/bcryptjs": "^2.4.6",
     "@types/mongoose": "^5.11.96",
     "bcryptjs": "^3.0.2",
